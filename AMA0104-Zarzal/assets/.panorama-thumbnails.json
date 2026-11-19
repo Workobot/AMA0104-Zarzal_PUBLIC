@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "[\"Zarzal\",\"amenidades\",\"Biosaludables\"]": {
+      "pose": {
+        "pitch": 2,
+        "yaw": 9,
+        "fov": 105
+      },
+      "signature": "4ac3a4776643f1b35f3f473517248bc9a7213e22d6cac02069711730177e22e7",
+      "outputSize": 201495,
+      "outputMtime": 1795047120571.276
+    },
+    "[\"Zarzal\",\"amenidades\",\"Lobby\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 23,
+        "fov": 118
+      },
+      "signature": "9de0646c0ed5ce014034851a920a5c350beacc626c65b98b4b85d6a705511a1e",
+      "outputSize": 243865,
+      "outputMtime": 1795047135973.258
+    },
+    "[\"Zarzal\",\"amenidades\",\"LobbyInterior\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 90,
+        "fov": 90
+      },
+      "signature": "963baed82773b95a653c72272d0c16b0a32d44e11a8a79f51864d174d7ff29c4",
+      "outputSize": 79699,
+      "outputMtime": 1795046982778.3845
+    },
+    "[\"Zarzal\",\"amenidades\",\"ParqueInfantil\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 90,
+        "fov": 90
+      },
+      "signature": "d168b98e8a200ecf36ea5f6e252a0f7239d1015d1ffe0d5e890d2e52ee4e20f6",
+      "outputSize": 172152,
+      "outputMtime": 1795046983302.509
+    },
+    "[\"Zarzal\",\"amenidades\",\"Lobby_Interior\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 106
+      },
+      "signature": "78e8dd81bdf1120e15c87180001153d9ed70b3067433d3109c794f88f3d37851",
+      "outputSize": 133219,
+      "outputMtime": 1795047127403.404
+    },
+    "[\"Zarzal\",\"amenidades\",\"Parque_Infantil\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 96
+      },
+      "signature": "a402dac3149f8f027678137d813a6df938ffaedf305a99691243f3433ec18b5e",
+      "outputSize": 249991,
+      "outputMtime": 1795047140707.6099
+    }
+  }
+}
